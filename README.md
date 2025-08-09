@@ -1,14 +1,12 @@
 ## Hi there 👋
- I'm Anderson Calhabeu — a curious engineer, lifelong learner, and enthusiastic tinkerer of all things tech.
-- 🔭 I’m currently working on open innovation, mathematical simulation, sensing and fast prototyping with universities and private companies.
-- 🌱 I’m currently learning how to boost produtivity in a corporative enviroment using Artificial Inteligence.
-- 👯 I’m looking to collaborate on Artificial Inteligence and sensoring projetcs.
-<!-- 🤔 I’m looking for help with 
-- 💬 Ask me about ... -->
-- 📫 How to reach me: acalhabeu@yahoo.com.br
-<!-- 😄 Pronouns: 
-- ⚡ Fun fact: ...-->
- 
+
+I'm Anderson Calhabeu — a curious engineer, lifelong learner, and enthusiastic tinkerer of all things tech.
+
+- 🔭 Currently working on open innovation, mathematical simulation, sensing, and rapid prototyping with universities and private companies.
+- 🌱 Exploring ways to boost productivity in corporate environments using Artificial Intelligence.
+- 👯 Open to collaboration on Artificial Intelligence and sensing projects.
+- 📫 Reach me at: acalhabeu@yahoo.com.br
+
 <!--
 **andersoncalhabeu/andersoncalhabeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
